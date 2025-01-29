@@ -1,0 +1,27 @@
+
+@import "{{ site.theme }}";
+
+.page-header {
+  
+    background-image: linear-gradient( to right, #0000FF, #FF0000);
+
+head {
+h1 {
+  color: white;
+  text-align: center;
+}
+
+body{
+    
+p {
+  color: black; 
+  font-family: bookman-old;
+  font-size: 20px;
+}
+  ol{
+    color: black;
+    font-family: bookman-old;
+    font-size: 20px;
+  }
+  
+}
